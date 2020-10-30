@@ -71,7 +71,7 @@ $commands = array(
 
 $output = "\n";
 
-$log = "####### ".date('Y-m-d H:i:s'). " #######\n";
+$log = "####### ".date('Y-m-d H:i:s'). " #######\n"; 
 
 foreach($commands AS $command){
     // Run it
